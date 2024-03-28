@@ -30,3 +30,5 @@ GNUmakefile
 .version
 test/*
 generate/
+
+.babelrc

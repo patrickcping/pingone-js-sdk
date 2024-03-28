@@ -31,3 +31,4 @@ GNUmakefile
 test/*
 generate/*
 
+.babelrc
