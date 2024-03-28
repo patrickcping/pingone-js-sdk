@@ -1,5 +1,8 @@
 # PingOne Administration JavaScript SDK
 
+> [!IMPORTANT]  
+> Content in this repository is under development and isn't yet functional.
+
 The PingOne JavaScript SDK provides a set of functions and stucts that help with interacting with the PingOne public cloud API.
 
 The code is intended to be delivered as a sample, until an official JavaScript SDK is released from Ping Identity.  As such, the code is highly likely to change significantly between releases. 
