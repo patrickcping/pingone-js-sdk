@@ -13,10 +13,10 @@ Code for each service is generated with the help of the [OpenAPI Generator](http
 
 The SDK provides a core package, and a package per PingOne service, each with their own directory off the root of the project:
 
-* **agreementmanagement** - [Documentation](https://pkg.go.dev/github.com/patrickcping/pingone-js-sdk/agreementmanagement) - for the PingOne end-user agreements managements service
-* **authorize** - [Documentation](https://pkg.go.dev/github.com/patrickcping/pingone-js-sdk/authorize) - for the PingOne Authorize service
-* **credentials** - [Documentation](https://pkg.go.dev/github.com/patrickcping/pingone-js-sdk/credentials) - for the PingOne Credentials service, part of PingOne Neo
-* **management** - [Documentation](https://pkg.go.dev/github.com/patrickcping/pingone-js-sdk/management) - for the PingOne platform common and SSO services
-* **mfa** - [Documentation](https://pkg.go.dev/github.com/patrickcping/pingone-js-sdk/mfa) - for the PingOne MFA service
-* **risk** - [Documentation](https://pkg.go.dev/github.com/patrickcping/pingone-js-sdk/risk) - for the PingOne Protect service
-* **verify** - [Documentation](https://pkg.go.dev/github.com/patrickcping/pingone-js-sdk/verify) - for the PingOne Verify service, part of PingOne Neo
+* **agreementmanagement** - [Documentation](https://github.com/patrickcping/pingone-js-sdk/tree/main/agreementmanagement) - for the PingOne end-user agreements managements service
+* **authorize** - [Documentation](https://github.com/patrickcping/pingone-js-sdk/tree/main/authorize) - for the PingOne Authorize service
+* **credentials** - [Documentation](https://github.com/patrickcping/pingone-js-sdk/tree/main/credentials) - for the PingOne Credentials service, part of PingOne Neo
+* **management** - [Documentation](https://github.com/patrickcping/pingone-js-sdk/tree/main/management) - for the PingOne platform common and SSO services
+* **mfa** - [Documentation](https://github.com/patrickcping/pingone-js-sdk/tree/main/mfa) - for the PingOne MFA service
+* **risk** - [Documentation](https://github.com/patrickcping/pingone-js-sdk/tree/main/risk) - for the PingOne Protect service
+* **verify** - [Documentation](https://github.com/patrickcping/pingone-js-sdk/tree/main/verify) - for the PingOne Verify service, part of PingOne Neo
