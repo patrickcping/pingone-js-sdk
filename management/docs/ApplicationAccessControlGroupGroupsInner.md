@@ -1,0 +1,9 @@
+# PingOnePlatformApiSsoAndBase.ApplicationAccessControlGroupGroupsInner
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **String** |  | 
+
+

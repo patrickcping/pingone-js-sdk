@@ -1,0 +1,14 @@
+# PingOnePlatformApiSsoAndBase.FormFieldQrCode
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**type** | [**EnumFormFieldType**](EnumFormFieldType.md) |  | 
+**position** | [**FormFieldCommonPosition**](FormFieldCommonPosition.md) |  | 
+**key** | **String** | A string that specifies an identifier for the field component. | 
+**qrCodeType** | [**EnumFormQrCodeType**](EnumFormQrCodeType.md) |  | 
+**alignment** | [**EnumFormItemAlignment**](EnumFormItemAlignment.md) |  | 
+**showBorder** | **Boolean** | A boolean that specifies the border visibility. | [optional] 
+
+
